@@ -9,7 +9,7 @@ button {
     height: 50px;
     background-color: aqua;
     border-radius: 3px;
-    font-size: xx-large;
+    font-size: large;
 }
 
 button:hover {
